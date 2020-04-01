@@ -14,15 +14,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 	
-	<groupId>com.hp.Maven</groupId>
-    <artifactId>Maven-Nexus</artifactId>
-    <version>1.0.0</version>
+	
 
-    <properties>
-        <baseNexusURL>${baseNexusURL}</baseNexusURL>
-        <targetRepositoryID>${repositoryId}</targetRepositoryID>
-        <package.final.name>${project.artifactId}</package.final.name>
-    </properties>
+    
 
   <dependencies>
     <dependency>
